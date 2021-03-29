@@ -1,0 +1,6 @@
+[package]
+name = "structure"
+version = "0.1.0"
+authors = ["benin <beningodfrey4@gmail.com>"]
+
+[dependencies]
